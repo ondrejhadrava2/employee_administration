@@ -1,0 +1,7 @@
+C:\Users\Nazar\source\repos\List and maybe time\List and maybe time\bin\Debug\List and maybe time.exe.config
+C:\Users\Nazar\source\repos\List and maybe time\List and maybe time\bin\Debug\List and maybe time.exe
+C:\Users\Nazar\source\repos\List and maybe time\List and maybe time\bin\Debug\List and maybe time.pdb
+C:\Users\Nazar\source\repos\List and maybe time\List and maybe time\obj\Debug\List and maybe time.csproj.CoreCompileInputs.cache
+C:\Users\Nazar\source\repos\List and maybe time\List and maybe time\obj\Debug\List and maybe time.exe
+C:\Users\Nazar\source\repos\List and maybe time\List and maybe time\obj\Debug\List and maybe time.pdb
+C:\Users\Nazar\source\repos\List and maybe time\List and maybe time\obj\Debug\List and maybe time.csprojAssemblyReference.cache
